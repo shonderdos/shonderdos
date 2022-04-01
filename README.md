@@ -6,7 +6,7 @@ Since 2011 I have been working as a software developer. Not afraid of hard work 
 
 **Programming languages:** TypeScript, JavaScript, NodeJS
 
-**MarkUp:** HTML, CSS, Sass, Less<br />
+**Markup:** HTML, CSS, Sass, Less<br />
 **Frameworks:** Angular, AngularJS, React, Vue.js<br />
 **Database:** Kafka, MongoDB, MySQL<br />
 **Libraries:** RxJS, Jest, MomentJS, jQuery, Express, Firebase<br />
