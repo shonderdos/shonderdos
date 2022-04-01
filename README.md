@@ -37,7 +37,6 @@ Since 2011 I have been working as a software developer. Not afraid of hard work 
 <p>🏎️ I own a go-kart and do races on weekends</p>
 <p>🧗 Few times a month I go bouldering</p>
 <p>⛰️ I like to go hiking on holidays</p>
-<br/>
 
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
