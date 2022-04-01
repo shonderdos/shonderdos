@@ -1,4 +1,12 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, my name is Serge Honderdos!
+
+I'm a javascript developer with UX/UI skills based in Haarlem, The Netherlands.
+
+Since 2011 I have been working as a software developer. Not afraid of hard work and always keen on accepting new challenges. Based on my experience, I prefer an Angular and NodeJS environment, but I'm familiar with the entire javascript stack.
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **shonderdos/shonderdos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
