@@ -42,7 +42,11 @@ Since 2013 I have been working as a software developer. Not afraid of hard work 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 18 mins
+
+SCSS         10 mins         ██████████████▒░░░░░░░░░░   57.87 %
+TypeScript   7 mins          ██████████░░░░░░░░░░░░░░░   40.24 %
+HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
