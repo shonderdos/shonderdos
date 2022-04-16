@@ -42,14 +42,13 @@ Since 2013 I have been working as a software developer. Not afraid of hard work 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 13 hrs 24 mins
+Total Time: 12 hrs 35 mins
 
-TypeScript   10 hrs 46 mins  ████████████████████░░░░░   80.40 %
-HTML         2 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   10 hrs 2 mins   ████████████████████░░░░░   79.72 %
+HTML         2 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
