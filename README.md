@@ -82,9 +82,7 @@ Since 2013 I have been working as a software developer. Not afraid of hard work 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 min
-
-JSON   1 min           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
