@@ -82,11 +82,7 @@ Since 2013 I have been working as a software developer. Not afraid of hard work 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 23 mins
-
-TOML             20 mins         █████████████████████▓░░░   86.39 %
-textmate         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-GitIgnore file   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
