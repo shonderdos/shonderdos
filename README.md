@@ -69,11 +69,11 @@ Since 2013 I have been working as a software developer. Not afraid of hard work 
 </p>
 
 ## ⚡️ Quick facts
-<p>💻 Consultant at Sytac bv.</p>
-<p>📈 I actually like writing unit tests</p>
-<p>🏎️ I own a go-kart and do races on weekends</p>
-<p>🧗 Few times a month I go bouldering</p>
-<p>⛰️ I like to go hiking on holidays</p>
+💻 Consultant at Sytac bv  
+📈 I actually like writing unit tests  
+🏎️ I own a go-kart and do races on weekends  
+🧗 Few times a month I go bouldering  
+⛰️ I like to go hiking on holidays  
 
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
