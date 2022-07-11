@@ -43,8 +43,12 @@ Since 2013 I have been working as a software developer. Not afraid of hard work 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 
 ## 🥇 Work experience
-**Athlon Car Lease, Lead Frontend Developer** (Aug2021 - present)  
-Angular, Typescript, RxJS, Azure, Jenkins, Storybook, HTML, SCSS, Unit Test
+**Backbase, Frontend Developer** (Jul 2022 - present)  
+Angular, Typescript, RxJS, HTML, SCSS, Jest
+
+
+**Athlon Car Lease, Lead Frontend Developer** (Aug 2021 - Jul 2022)  
+Angular, Typescript, RxJS, Azure, Jenkins, Storybook, HTML, SCSS, Jest
 
 
 **Nederlandse Spoorwegen, Javascript Developer** (Jun 2020 - Aug 2021)  
