@@ -71,7 +71,7 @@ Since 2013 I have been working as a software developer. Not afraid of hard work 
 ## ⚡️ Quick facts
 💻 Consultant at Sytac bv  
 📈 I actually like writing unit tests  
-🏎️ I own a go-kart and do races on weekends  
+♟ I like to play boardgames    
 🧗 Few times a month I go bouldering  
 ⛰️ I like to go hiking on holidays  
 
