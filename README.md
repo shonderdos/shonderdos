@@ -43,30 +43,28 @@ Since 2013 I have been working as a software developer. Not afraid of hard work 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 
 ## 🥇 Work experience
-<p>
-  <b>Athlon Car Lease, Lead Frontend Developer</b> (Aug 2021 - present) <br>
-  Angular, Typescript, RxJS, Azure, Jenkins, Storybook, HTML, SCSS, Unit Test
-</p>
-<p>
-  <b>Nederlandse Spoorwegen, Javascript Developer</b> (Jun 2020 - Aug 2021) <br>
-  Angular, Typescript, Angular Material, RxJS, NGXS, Azure, Storybook, Cypress, Swagger
-</p>
-<p>
-  <b>Schiphol Group, JavaScript Developer</b> (Sep 2018 - Mar 2020) <br>
-  Angular, Typescript, RxJS, Kafka, NodeJS, Express, Docker, Jenkins, CI/CD, HTML, CSS, Scrum, Cypress E2E, Unit Test, Swagger, OpenApi 3, REST Api
-</p>
-<p>
-  <b>KLM, Frontend Developer</b> (Jul 2017 - Aug 2018) <br>
-  Angular, JavaScript, ES6, NodeJS, Express, HTML, CSS, Docker, Bamboo, Scrum
-</p>
-<p>
-  <b>KPN, Frontend Developer</b> (Jan 2016 - May 2017) <br>
-  AngularJS, JavaScript, ES6, HTML, CSS, Scrum, Jenkins
-</p>
-<p>
-  <b>Vliegtickets.nl, Developer</b> (Jun 2013 - Dec 2015) <br>
-  PHP, JavaScript, ES5, jQuery, CSS3, LESS, HTML, Scrum, ZF1, Jenkins
-</p>
+**Athlon Car Lease, Lead Frontend Developer** (Aug2021 - present)  
+Angular, Typescript, RxJS, Azure, Jenkins, Storybook, HTML, SCSS, Unit Test
+
+
+**Nederlandse Spoorwegen, Javascript Developer** (Jun 2020 - Aug 2021)  
+Angular, Typescript, Angular Material, RxJS, NGXS, Azure, Storybook, Cypress, Swagger
+
+
+**Schiphol Group, JavaScript Developer** (Sep 2018 - Mar 2020)  
+Angular, Typescript, RxJS, Kafka, NodeJS, Express, Docker, Jenkins, CI/CD, HTML, CSS, Scrum, Cypress E2E, Unit Test, Swagger, OpenApi 3, REST Api
+
+
+**KLM, Frontend Developer** (Jul 2017 - Aug 2018)  
+Angular, JavaScript, ES6, NodeJS, Express, HTML, CSS, Docker, Bamboo, Scrum
+
+
+**KPN, Frontend Developer** (Jan 2016 - May 2017)  
+AngularJS, JavaScript, ES6, HTML, CSS, Scrum, Jenkins
+
+
+**Vliegtickets.nl, Developer** (Jun 2013 - Dec 2015)  
+PHP, JavaScript, ES5, jQuery, CSS3, LESS, HTML, Scrum, ZF1, Jenkins
 
 ## ⚡️ Quick facts
 💻 Consultant at Sytac bv  
