@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, my name is Serge Honderdos!
+# Hi, my name is Serge Honderdos!
 
 I'm a javascript developer with UX/UI skills based in Haarlem, The Netherlands.
 
