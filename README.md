@@ -1,6 +1,6 @@
 # Hi, my name is Serge Honderdos!
 
-I'm a javascript developer with UX/UI skills based in Haarlem, The Netherlands.
+I'm a javascript developer with UX/UI skills based in Alkmaar, The Netherlands.
 
 Since 2013 I have been working as a software developer. Not afraid of hard work and always keen on accepting new challenges. Based on my experience, I prefer an Angular and NodeJS environment, but I'm familiar with the entire javascript stack.
 
