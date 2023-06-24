@@ -82,9 +82,9 @@ PHP, JavaScript, ES5, jQuery, CSS3, LESS, HTML, Scrum, ZF1, Jenkins
 ```txt
 Total Time: 12 hrs 39 mins
 
-TypeScript   10 hrs 42 mins  █████████████████████▒░░░   84.68 %
-JavaScript   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-HTML         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+TypeScript   10 hrs 58 mins  █████████████████████▓░░░   86.75 %
+JavaScript   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+HTML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 SourceMap    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
