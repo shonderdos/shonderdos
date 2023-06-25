@@ -80,13 +80,13 @@ PHP, JavaScript, ES5, jQuery, CSS3, LESS, HTML, Scrum, ZF1, Jenkins
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 39 mins
+Total Time: 13 hrs 25 mins
 
-TypeScript   10 hrs 58 mins  █████████████████████▓░░░   86.75 %
-JavaScript   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-HTML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-SourceMap    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+TypeScript   11 hrs 32 mins  █████████████████████▒░░░   85.90 %
+JavaScript   52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+GraphQL      15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+SourceMap    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
