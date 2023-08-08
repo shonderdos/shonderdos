@@ -5,7 +5,10 @@ I'm a javascript developer with UX/UI skills based in Alkmaar, The Netherlands.
 Since 2013 I have been working as a software developer. Not afraid of hard work and always keen on accepting new challenges. Based on my experience, I prefer an Angular and NodeJS environment, but I'm familiar with the entire javascript stack.
 
 ## 🥇 Work experience
-**Backbase, Frontend Developer** (Jul 2022 - present)  
+**KLM, Frontend Developer** (Apr 2023 - present)  
+Angular, Typescript, RxJS, HTML, SCSS, Jest, Cypress, GraphQL
+
+**Backbase, Frontend Developer** (Jul 2022 - Apr 2023)  
 Angular, Typescript, RxJS, HTML, SCSS, Jest
 
 
