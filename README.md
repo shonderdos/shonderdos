@@ -83,9 +83,11 @@ PHP, JavaScript, ES5, jQuery, CSS3, LESS, HTML, Scrum, ZF1, Jenkins
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 34 mins
 
-No activity tracked
+JavaScript       1 hr 33 mins    ████████████████████████▓   99.13 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
