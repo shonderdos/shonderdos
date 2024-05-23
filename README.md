@@ -85,7 +85,8 @@ PHP, JavaScript, ES5, jQuery, CSS3, LESS, HTML, Scrum, ZF1, Jenkins
 ```txt
 Total Time: 0 secs
 
-conf   0 secs          █████████████████████████   100.00 %
+conf       0 secs          ████████████████████▓░░░░   82.98 %
+Markdown   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
 ```
 
 <!--END_SECTION:waka-->
