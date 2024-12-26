@@ -80,13 +80,13 @@ PHP, JavaScript, ES5, jQuery, CSS3, LESS, HTML, Scrum, ZF1, Jenkins
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 29 mins
+Total Time: 8 hrs 53 mins
 
-Lua                        4 hrs 21 mins   █████████▒░░░░░░░░░░░░░░░   37.83 %
-TypeScript                 2 hrs 53 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
-JSON                       1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-Other                      1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-sshconfig                  29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Lua          4 hrs 14 mins   ███████████░░░░░░░░░░░░░░   43.75 %
+TypeScript   2 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
+JSON         1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Other        47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Text         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 ```
 
 <!--END_SECTION:waka-->
