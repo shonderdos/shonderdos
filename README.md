@@ -9,13 +9,13 @@ A senior frontend developer with 10 years of experience in developing enterprise
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 45 mins
+Total Time: 8 hrs 34 mins
 
-TypeScript                 4 hrs 42 mins   █████████████████░░░░░░░░   67.86 %
-HTML                       41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-CSS                        29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-Markdown                   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-SCSS                       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+TypeScript                 5 hrs 23 mins   ███████████████▒░░░░░░░░░   61.45 %
+HTML                       1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
+SCSS                       32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Markdown                   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+JSON                       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 ```
 
 <!--END_SECTION:waka-->
