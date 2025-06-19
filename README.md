@@ -1,9 +1,8 @@
 # Hi, my name is Serge Honderdos!
 
-A senior frontend developer with 10 years of experience in developing enterprise applications for industry leaders such as KLM, Schiphol, Backbase, Athlon, and NS working as a consultant at Sytac.
-
+Angular expert with a decade of experience in developing scalable, high-performance enterprise applications. I help businesses build robust, user-centric solutions that drive growth and efficiency.
 ### Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,react,vue,nodejs,sqlite,postgres,mongodb,git,azure)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,nodejs,sqlite,postgres,mongodb,git,azure)](#)
 
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
