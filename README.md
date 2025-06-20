@@ -8,7 +8,7 @@ Over 10 years of experience in front-end and back-end development, specializing 
 ```text
 Programming Languages: JavaScript, TypeScript, HTML, CSS, SQL
 Web Technologies: Angular, AngularJS, Angular Material, RxJS, Node.js, Express, GraphQL
-Cloud Platforms: Azure, GitHub
+Cloud Platforms: Azure, Firebase, GitHub
 DevOps Tools: Docker, GitHub Actions
 Testing Tools: Jest, Cypress, Playwright
 Databases: PostgreSQL, SQLite, MySQL
