@@ -25,13 +25,13 @@ Angular expert with a decade of experience in developing scalable, high-performa
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 5 mins
+Total Time: 11 hrs 35 mins
 
-TypeScript                 6 hrs 36 mins   ██████████████▒░░░░░░░░░░   57.02 %
-HTML                       1 hr 56 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-SCSS                       1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Other                      30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Java Properties            25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+TypeScript                 6 hrs 28 mins   █████████████▓░░░░░░░░░░░   54.12 %
+HTML                       2 hrs 56 mins   ██████░░░░░░░░░░░░░░░░░░░   24.58 %
+SCSS                       43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+JSON                       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Other                      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
