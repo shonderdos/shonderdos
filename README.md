@@ -2,8 +2,18 @@
 Angular expert with a decade of experience developing scalable, high-performance enterprise applications. Helps businesses build robust, user-centric solutions that drive growth and efficiency. Passionate about solving complex challenges with elegant, maintainable code.
 ## About me
 Over 10 years of experience in front-end and back-end development, specializing in enterprise solutions. Proven track record delivering scalable, maintainable systems in agile environments using JavaScript, TypeScript, Angular, Node.js, and monolithic architecture. Adept at technical leadership, CI/CD implementation, and automated testing. Consistently adopts a customer-focused, results-driven approach to software engineering.
-## Languages and tools
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,angular,nodejs,sqlite,postgres,mongodb,git,azure)](#)
+
+```text
+Programming Languages: JavaScript, TypeScript, HTML, CSS
+Web Technologies: Angular, AngularJS, Angular Material, RxJS, Node.js, Express, GraphQL
+Cloud Platforms: Azure, GitHub
+DevOps Tools: Docker, GitHub Actions
+Testing Tools: Jest, Cypress, Playwright
+Databases: SQL, PostgreSQL, SQLite
+Soft Skills: Mentoring, Problem-solving, Team Collaboration, Agile Methodologies
+```
 ##  Courses
 ##### 2025
 - **Website Accessibility, v3** - *Jon Kuperman*
