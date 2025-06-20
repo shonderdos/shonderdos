@@ -6,12 +6,12 @@ Over 10 years of experience in front-end and back-end development, specializing 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,angular,nodejs,sqlite,postgres,mongodb,git,azure)](#)
 
 ```text
-Programming Languages: JavaScript, TypeScript, HTML, CSS
+Programming Languages: JavaScript, TypeScript, HTML, CSS, SQL
 Web Technologies: Angular, AngularJS, Angular Material, RxJS, Node.js, Express, GraphQL
 Cloud Platforms: Azure, GitHub
 DevOps Tools: Docker, GitHub Actions
 Testing Tools: Jest, Cypress, Playwright
-Databases: SQL, PostgreSQL, SQLite
+Databases: PostgreSQL, SQLite, MySQL
 Soft Skills: Mentoring, Problem-solving, Team Collaboration, Agile Methodologies
 ```
 ## Achievements
