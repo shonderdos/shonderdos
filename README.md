@@ -14,6 +14,15 @@ Testing Tools: Jest, Cypress, Playwright
 Databases: SQL, PostgreSQL, SQLite
 Soft Skills: Mentoring, Problem-solving, Team Collaboration, Agile Methodologies
 ```
+## Achievements
+- High-Traffic Web Application for KLM  
+Developed features and deployment strategies for a global audience.
+
+- Online Banking Platform for Backbase  
+Collaborated with international teams to deliver secure, user-friendly solutions.
+
+- Real-Time Data Integration Platform for Schiphol  
+Deliver real-time operational insights to enhance decision-making for airport management.
 ##  Courses
 ##### 2025
 - **Website Accessibility, v3** - *Jon Kuperman*
