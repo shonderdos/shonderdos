@@ -50,13 +50,13 @@ Deliver real-time operational insights to enhance decision-making for airport ma
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 21 mins
+Total Time: 8 hrs 45 mins
 
-YAML         2 hrs 48 mins   █████████░░░░░░░░░░░░░░░░   35.76 %
-Docker       1 hr 46 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
-Markdown     50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-TypeScript   43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-Other        29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+YAML         2 hrs 48 mins   ███████▓░░░░░░░░░░░░░░░░░   30.00 %
+Docker       1 hr 46 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
+sh           1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+Markdown     50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+TypeScript   43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
 ```
 
 <!--END_SECTION:waka-->
