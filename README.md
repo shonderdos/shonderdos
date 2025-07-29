@@ -25,6 +25,7 @@ Collaborated with international teams to deliver secure, user-friendly solutions
 Deliver real-time operational insights to enhance decision-making for airport management.
 ##  Courses
 ##### 2025
+- **Enterprise UI Development: Testing & Code Quality** - *Steve Kinney*
 - **Complete Intro to Containers, v2** - *Biran Holt*
 - **Website Accessibility, v3** - *Jon Kuperman*
 - **Web Security, v2** - *Steve Kinney*
