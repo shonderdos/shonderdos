@@ -25,16 +25,16 @@ Collaborated with international teams to deliver secure, user-friendly solutions
 Deliver real-time operational insights to enhance decision-making for airport management.
 ##  Courses
 ##### 2025
-- **Tailwind CSS, v2** - *Steve Kinney*
+- **Tailwind CSS 4+** - *Steve Kinney*
 - **Enterprise UI Development: Testing & Code Quality** - *Steve Kinney*
 - **Complete Intro to Containers, v2** - *Biran Holt*
 - **Website Accessibility, v3** - *Jon Kuperman*
-- **Web Security, v2** - *Steve Kinney*
 - **Complete Intro to React, v9** - *Brian Holt*
 - **The Hard Parts of Asynchronous JavaScript** - *Will Sentance*
 ##### 2024
 - **Complete Intro to SQL & PostgreSQL** - *Brian Holt*
 - **Complete Intro to SQLite** - *Brian Holt*
+- **Web Security, v2** - *Steve Kinney*
 - **Complete Intro to Databases** - *Brian Holt*
 - **Full Stack for Front-End Engineers** - *Jem Young*
 - **API Design in Node.js** - *Scott Moss*
