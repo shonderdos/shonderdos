@@ -52,9 +52,9 @@ Deliver real-time operational insights to enhance decision-making for airport ma
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 17 mins
+Total Time: 28 mins
 
-Markdown   1 hr 17 mins    █████████████████████████   100.00 %
+Markdown   28 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
