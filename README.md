@@ -52,13 +52,13 @@ Deliver real-time operational insights to enhance decision-making for airport ma
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs
+Total Time: 5 hrs 40 mins
 
-TypeScript   2 hrs 34 mins         █████████░░░░░░░░░░░░░░░░   35.47 %
-conf         1 hr 5 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-HTML         47 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-Bash         46 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Markdown     44 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+TypeScript   2 hrs 34 mins         ███████████░░░░░░░░░░░░░░   43.44 %
+HTML         47 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Markdown     44 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+conf         26 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+Bash         19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
 ```
 
 <!--END_SECTION:waka-->
