@@ -24,6 +24,12 @@ Collaborated with international teams to deliver secure, user-friendly solutions
 - Real-Time Data Integration Platform for Schiphol  
 Deliver real-time operational insights to enhance decision-making for airport management.
 ##  Courses
+##### 2026
+- **Claude Code** - *Lydia Hallie*
+- **Domain Modeling for Humans and AI** - *Mike North*
+- **TypeScript Monorepos: Architect Maintainable Codebases** - *Mike North*
+- **Advanced Angular: Performance & Enterprise State** - *Alex Okrushko*
+- **Intermediate Angular: Signals & Dependency Injection** - *Alex Okrushko*
 ##### 2025
 - **Tailwind CSS 4+** - *Steve Kinney*
 - **Enterprise UI Development: Testing & Code Quality** - *Steve Kinney*
